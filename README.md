@@ -1,3 +1,2 @@
-Acesse em: https://www.linkedin.com/in/ericacastellobranco/
-
+Acesse em: https://ericacastellob.github.io/portfolio/
 Meu primeiro portfolio
