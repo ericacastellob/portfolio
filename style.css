@@ -1,0 +1,89 @@
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-image: url(img/pexels-olena-bohovyk-1772123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+         
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(161, 57, 8)
+}
+
+h2 {
+    font-size: 16px;
+    text-align: center;
+    color:  rgb(161, 57, 8)
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(247, 188, 101);
+    padding: 12px;
+    
+}
+
+.github {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.github:hover {
+    font-style: italic;
+    background-color:  rgb(255, 201, 121);
+}
+
+.linkedin {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.linkedin:hover {
+    font-style: italic;
+    background-color:  rgb(255, 201, 121);
+}
+
+.landing {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.landing:hover {
+    font-style: italic;
+    background-color:  rgb(255, 201, 121);
+}
+
+.hp {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.hp:hover {
+    font-style: italic;
+    background-color:  rgb(255, 201, 121);
+}
